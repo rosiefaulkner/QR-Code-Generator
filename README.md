@@ -4,7 +4,7 @@ The idea behind creating a quick response (QR) code generator is to translate da
 
 The option for users to download the generated QR code makes it useful in a wide variety of use cases. From printing the code to embedding it on a website, the use cases are unlimited.
 
-![qr-code-generator](https://i.ibb.co/YbNJNkY/qrcodegenerator.png)
+![qr-code-generator](https://i.ibb.co/YbNJNkY/qrcodegenerator.png "qrcodegenerator")
 
 ## Available Scripts
 
